@@ -35,10 +35,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  <option>2</option>
 		  <option>3</option>
 		  <option>4</option>
-		  <option>5</option>
-		  <option>6</option>
-		  <option>7</option>
-		  <option>8</option>
 		</select>
 	  </div>
 	  <div class="form-group">
@@ -57,7 +53,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
 		
 	<div class="row">
-                <h5><i>......    It's not about money, it's about sending a message. Remember everythings burns away!!!</h5>
+                <h5><i>......    It's not about money, it's about sending a message. Remember everything burns away!!!</h5>
 	</i></div>
         <div class="row">
 
