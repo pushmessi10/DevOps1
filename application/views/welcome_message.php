@@ -38,6 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  <option>5</option>
 		  <option>6</option>
 		  <option>7</option>
+		  <option>8</option>
 		</select>
 	  </div>
 	  <div class="form-group">
@@ -47,7 +48,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 	</div>
+	</div>
+	</div>
+	</div>
+	<div class="row">
+                <h5><i>...     You either die a hero or you live long enough to see yourself become the villain. -The Dark Knight</h5>
+	</i></div>
+        <div class="row">
+		
+	<div class="row">
+                <h5><i>...     It's not about money, it's about sending a message. Everythings burns!!! -The Dark Knight</h5>
+	</i></div>
+        <div class="row">
+
+</form>
+	</div>
 </div>
 
 </body>
 </html>
+
