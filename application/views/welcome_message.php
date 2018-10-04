@@ -57,7 +57,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="row">
 		
 	<div class="row">
-                <h5><i>...     It's not about money, it's about sending a message. Everythings burns!!! -The Dark Knight</h5>
+                <h5><i>...It's not about money, it's about sending a message. Everythings burns!!! -The Dark Knight</h5>
 	</i></div>
         <div class="row">
 
