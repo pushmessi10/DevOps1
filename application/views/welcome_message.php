@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </script> 
 </head>
 <!-- Creating Form -->
-<body background="https://static1.squarespace.com/static/5633a4ebe4b02b1547969e84/t/573a135ab654f9c053394a86/1463423872799/?format=1000w><center><font size=10>
+<body background="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/tribal-dance-african-artist.jpg"><center><font size=10>
 <form method="POST" action="registration.php" >
 <b><h3>REGISTRATION FORM</h3></b>
 <table border=1 align=center bgcolor="Lavender" cellpadding=20px><br>
