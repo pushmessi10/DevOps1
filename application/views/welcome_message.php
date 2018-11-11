@@ -24,12 +24,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </script> 
 </head>
 <!-- Creating Form -->
-<body bgcolor="red"><center><font size=10>
-<form method="POST" action="registration.php" name="form1">
+<body background="https://static1.squarespace.com/static/5633a4ebe4b02b1547969e84/t/573a135ab654f9c053394a86/1463423872799/?format=1000w><center><font size=10>
+<form method="POST" action="registration.php" >
 <b><h3>REGISTRATION FORM</h3></b>
 <table border=1 align=center bgcolor="Lavender" cellpadding=20px><br>
 <td colspan=6 align=center><b>STUDENT INFORMATION</td> 
-<form name ="registration Form" action="successstud.php " method="POST"><tr>
+<form name ="registration Form" action="registration.php " method="POST"><tr>
 <td>Name:</td><td> <input type = "text" name = "Name" size=30 maxlength=30></td></tr>
 <tr><td>Phone_No :</td> <td><input type = "text" name = "Ph_no" size=12 maxlength=12></td></tr>
 <tr><td>Address :</td><td><textarea name="Address" id="Address" size=30 maxlength=30></textarea> </td></tr>
