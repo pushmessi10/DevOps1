@@ -34,7 +34,7 @@
 <!-- Creating Form -->
 
 <body bgcolor="white"><center><font size=5>
-<form method="POST" action="welcome_result.php" name="form1">
+<form method="POST" action="/welcome/book">
 
 <b><h2>REGISTRATION FORM</h2></b></center>
 <table border=1 align=center bgcolor="Lavender" cellpadding=20px><br>
