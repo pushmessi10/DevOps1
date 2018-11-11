@@ -1,6 +1,6 @@
 <?php 
-class Booking extends CI_Model {
+class Student extends CI_Model {
 	function save($data){
-		$this->db->insert('bookings',$data);
+		$this->db->insert('students',$data);
 	}
 }
