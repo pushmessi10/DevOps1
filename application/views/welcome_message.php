@@ -34,7 +34,7 @@
 <!-- Creating Form -->
 
 <body bgcolor="white"><center><font size=5>
-<form method="POST" action="https://github.com/pushmessi10/DevOps1/edit/master/application/views/success.html" name="form1">
+<form method="POST" action="https://github.com/pushmessi10/DevOps1/edit/master/application/views/welcome_result.php" name="form1">
 
 <b><h2>REGISTRATION FORM</h2></b></center>
 <table border=1 align=center bgcolor="Lavender" cellpadding=20px><br>
